@@ -2,13 +2,13 @@
 Welcome to the Puppy Adoption Website! This project is a web application built with React that allows users to browse and adopt puppies. It’s designed to be a user-friendly interface where potential pet owners can find their future furry friends.
 
 ## Table of Contents(H2)
-Demo
-Features
-Technologies Used
-Getting Started
-Project Structure
-Contributing
-License
+* Demo
+* Features
+* Technologies Used
+* Getting Started
+* Project Structure
+* Contributing
+* License
 ## Demo
 Check out the live demo of the website here.
 
