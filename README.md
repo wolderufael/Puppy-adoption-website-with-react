@@ -38,10 +38,12 @@ Ensure you have the following installed:
      cd Puppy-adoption-website-with-react
 
 3.**Install Dependencies:**
+
      ```bash
      install dependencies
      
 4.**Start the development server:**
+
      ```bash
      npm run dev
      
