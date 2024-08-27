@@ -39,7 +39,7 @@ Ensure you have the following installed:
 
 3.**Install Dependencies:**
 
-     ```bash
+     ```
      install dependencies
      
 4.**Start the development server:**
