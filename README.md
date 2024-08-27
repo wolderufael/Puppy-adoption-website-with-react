@@ -12,8 +12,6 @@ Welcome to the Puppy Adoption Website! This project is a web application built w
 ## Demo
 Check out the live demo of the website here.
 
-Note: Replace # with the actual URL if deployed.
-
 ## Features
 *  **Browse Puppies:** Users can browse through a list of puppies available for adoption.
 * **Puppy Details:** Clicking on a puppy shows more detailed information about them.
@@ -25,8 +23,24 @@ Note: Replace # with the actual URL if deployed.
 ## Getting Started
 To get a local copy up and running, follow these steps:
 
-Prerequisites
+### Prerequisites
 Ensure you have the following installed:
 
 * Node.js (v14 or higher)
 * npm (v6 or higher)
+### installation
+1. **Clone the repository:**
+   
+   ```bash
+   git clone https://github.com/wolderufael/Puppy-adoption-website-with-react.git
+2. **Navigate into the project directory:**
+     ```bash
+     cd Puppy-adoption-website-with-react
+
+3.**Install Dependencies:**
+```bash
+     install dependencies
+4.**Start the development server:**
+```bash
+     npm run dev
+5.**Open your browser and navigate to http://localhost:5173 to see the application in action.**
