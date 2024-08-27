@@ -10,7 +10,7 @@ Welcome to the Puppy Adoption Website! This project is a web application built w
 * Contributing
 * License
 ## Demo
-Check out the live demo of the website here.
+Check out the live demo of the website [here](https://puppy-adoption-site.netlify.app/).
 
 ## Features
 *  **Browse Puppies:** Users can browse through a list of puppies available for adoption.
