@@ -39,12 +39,12 @@ Ensure you have the following installed:
 
 3.**Install Dependencies:**
 
-     ```
+     
      install dependencies
      
 4.**Start the development server:**
 
-     ```bash
+     
      npm run dev
      
 5.**Open your browser and navigate to http://localhost:5173 to see the application in action.**
