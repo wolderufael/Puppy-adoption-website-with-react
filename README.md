@@ -38,9 +38,10 @@ Ensure you have the following installed:
      cd Puppy-adoption-website-with-react
 
 3.**Install Dependencies:**
-```bash
+     ```bash
      install dependencies
+     
 4.**Start the development server:**
-```bash
+     ```bash
      npm run dev
 5.**Open your browser and navigate to http://localhost:5173 to see the application in action.**
